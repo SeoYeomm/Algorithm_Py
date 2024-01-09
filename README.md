@@ -9,15 +9,15 @@
 
 |    기한    |      주제      |       문제           |      비고      |
 | :--------: | :-----------: | :-------------------: | :------------: | 
-| 2024/01/06 |  정렬  |  [바로가기](https://github.com/ruruisryu/Python_algorithm/tree/master/1_%EC%A0%95%EB%A0%AC) |       -        |
-| 2024/01/12 |  브루트 포스 | [바로가기](https://github.com/ruruisryu/Python_algorithm/tree/master/2_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)  |       -        |
-| 2024/01/19 |  그리디 알고리즘 |  [바로가기](https://github.com/ruruisryu/Python_algorithm/tree/master/3_%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  |       -        |
-| 2024/01/26 |   DFS/BFS   |  [바로가기](https://github.com/ruruisryu/Python_algorithm/tree/master/4_DFS%26BFS) |       -        |
-| 2024/02/02 |   백트래킹   |  [바로가기](https://github.com/ruruisryu/Python_algorithm/tree/master/5_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)  |       -        |
-| 2024/02/09 | 동적 계획법 |  [바로가기](https://github.com/ruruisryu/Python_algorithm/tree/master/6_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95)   |       -       |
-| 2024/02/16 |    이분 탐색    |  [바로가기](https://github.com/ruruisryu/Python_algorithm/tree/master/7_%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89)   |       -        |
-| 2024/02/23 |    그래프/트리  |  [바로가기](https://github.com/ruruisryu/Python_algorithm/tree/master/8_%EA%B7%B8%EB%9E%98%ED%94%84%26%ED%8A%B8%EB%A6%AC)  |       -     |
-| 2024/03/01 |   최단 경로   |  [바로가기](https://github.com/ruruisryu/Python_algorithm/tree/master/9_%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C)  |       -        |
+| 2024/01/06 |  정렬  |  [바로가기](https://github.com/SeoYeomm/Algorithm_Py/tree/main/1.%20%EC%A0%95%EB%A0%AC) |       -        |
+| 2024/01/12 |  브루트 포스 | [바로가기](https://github.com/SeoYeomm/Algorithm_Py/tree/main/2.%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)  |       -        |
+| 2024/01/19 |  그리디 알고리즘 |  [바로가기](https://github.com/SeoYeomm/Algorithm_Py/tree/main/3.%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  |       -        |
+| 2024/01/26 |   DFS/BFS   |  [바로가기]() |       -        |
+| 2024/02/02 |   백트래킹   |  [바로가기]()  |       -        |
+| 2024/02/09 | 동적 계획법 |  [바로가기]()   |       -       |
+| 2024/02/16 |    이분 탐색    |  [바로가기]()   |       -        |
+| 2024/02/23 |    그래프/트리  |  [바로가기]()  |       -     |
+| 2024/03/01 |   최단 경로   |  [바로가기]()  |       -        |
 | 2024/03/08 |    기출    |  [바로가기]  |       -        |
 | 2024/03/15 |    기출    |  [바로가기]  |       -        |
 | 2024/03/22 |    기출    |  [바로가기]  |       -        |
