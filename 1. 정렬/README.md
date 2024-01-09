@@ -1,6 +1,6 @@
 # 정렬
 
-[메인으로 돌아가기](https://github.com/ruruisryu/Python_algorithm)
+[메인으로 돌아가기](https://github.com/SeoYeomm/Algorithm_Py)
 
 ## ⏰ 마감기한
 ```html
